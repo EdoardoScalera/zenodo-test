@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A Bifacial Photovoltaic generation dataset at a high
+  latitude location.
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Edoardo
+    family-names: Scalera
+    orcid: 'https://orcid.org/0009-0007-8759-5666'
+repository-code: 'https://github.com/EdoardoScalera/PVdata-K4'
+abstract: >-
+  A Nordic off-grid bifacial photovoltaic (BPV) open data
+  collection system, located at a high-latitude site (60°N)
+  in Otaniemi, Espoo, Finland. The dataset includes PV data
+  from the charge controller, front and rear plane-of-array
+  irradiance, module temperatures and meteorological
+  variables collected from a local weather station. 
+keywords:
+  - Bifacial PV
+  - Solar energy
+  - Photovoltaic
+  - High latitude
+  - Nordic countries
+license: CC-BY-4.0
+commit: commit_id
+version: vx.x.x
+date-released: '1111-11-11'
