@@ -36,6 +36,6 @@ jobs:
           body: |
             Automated test release created every 15 minutes.
             This release is for workflow testing only and is not connected to Zenodo.
-          prerelease: true
+          prerelease: false
           draft: false
           generate_release_notes: true
