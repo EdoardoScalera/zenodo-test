@@ -2,7 +2,7 @@ name: Test automated release
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,4 +38,3 @@ jobs:
             This release is for workflow testing only and is not connected to Zenodo.
           prerelease: false
           draft: false
-          generate_release_notes: true
